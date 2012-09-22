@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+
+#Other
+*.nexe
+*.d
+*.nmf
+*.so.*
