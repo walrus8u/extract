@@ -23,6 +23,8 @@
 
 #include "helper_functions.h"
 
+#include "CPP/7zip/Archive/Zip/ZipHandler.h" 
+
 namespace hello_world {
 /// Method name for ReverseText, as seen by JavaScript code.
 const char* const kReverseTextMethodId = "reverseText";
